@@ -11,6 +11,26 @@
 		2F41827127A3A91B00EB6183 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41827027A3A91B00EB6183 /* ContentView.swift */; };
 		2F41827327A3A91D00EB6183 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F41827227A3A91D00EB6183 /* Assets.xcassets */; };
 		2F41827627A3A91D00EB6183 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F41827527A3A91D00EB6183 /* Preview Assets.xcassets */; };
+		2F41827E27A3B1A200EB6183 /* NoConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41827D27A3B1A200EB6183 /* NoConnection.swift */; };
+		2F41828027A3B20500EB6183 /* BrokenLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41827F27A3B20500EB6183 /* BrokenLink.swift */; };
+		2F41828227A3B34400EB6183 /* CameraAccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41828127A3B34400EB6183 /* CameraAccess.swift */; };
+		2F41828427A3B3A500EB6183 /* ConnectionFailed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41828327A3B3A500EB6183 /* ConnectionFailed.swift */; };
+		2F41828627A3B40500EB6183 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41828527A3B40500EB6183 /* Error.swift */; };
+		2F41828827A3B43F00EB6183 /* Error404.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41828727A3B43F00EB6183 /* Error404.swift */; };
+		2F41828A27A3B48F00EB6183 /* ErrorFood.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41828927A3B48F00EB6183 /* ErrorFood.swift */; };
+		2F41828C27A3B4BB00EB6183 /* ErrorScreen404.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41828B27A3B4BB00EB6183 /* ErrorScreen404.swift */; };
+		2F41828E27A3B4F400EB6183 /* FIleNotFound2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41828D27A3B4F400EB6183 /* FIleNotFound2.swift */; };
+		2F41829227A3B52C00EB6183 /* FileNotFound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41829127A3B52C00EB6183 /* FileNotFound.swift */; };
+		2F41829427A3B55500EB6183 /* LocationAccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41829327A3B55500EB6183 /* LocationAccess.swift */; };
+		2F41829627A3B5C400EB6183 /* LocationError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41829527A3B5C400EB6183 /* LocationError.swift */; };
+		2F41829827A3B60400EB6183 /* MissingArticle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41829727A3B60400EB6183 /* MissingArticle.swift */; };
+		2F41829A27A3B63000EB6183 /* NoSearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41829927A3B63000EB6183 /* NoSearchResult.swift */; };
+		2F41829C27A3B67C00EB6183 /* PaymentFailed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41829B27A3B67C00EB6183 /* PaymentFailed.swift */; };
+		2F41829E27A3B6A600EB6183 /* RouterOffline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41829D27A3B6A600EB6183 /* RouterOffline.swift */; };
+		2F4182A027A3B6CC00EB6183 /* SomethingWentWrong.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F41829F27A3B6CC00EB6183 /* SomethingWentWrong.swift */; };
+		2F4182A227A3B6F700EB6183 /* SomethingWrong.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4182A127A3B6F700EB6183 /* SomethingWrong.swift */; };
+		2F4182A427A3B72000EB6183 /* StorageNotEnough.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4182A327A3B72000EB6183 /* StorageNotEnough.swift */; };
+		2F4182A627A3B74200EB6183 /* TimeError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4182A527A3B74200EB6183 /* TimeError.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +39,26 @@
 		2F41827027A3A91B00EB6183 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2F41827227A3A91D00EB6183 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F41827527A3A91D00EB6183 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2F41827D27A3B1A200EB6183 /* NoConnection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoConnection.swift; sourceTree = "<group>"; };
+		2F41827F27A3B20500EB6183 /* BrokenLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrokenLink.swift; sourceTree = "<group>"; };
+		2F41828127A3B34400EB6183 /* CameraAccess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraAccess.swift; sourceTree = "<group>"; };
+		2F41828327A3B3A500EB6183 /* ConnectionFailed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectionFailed.swift; sourceTree = "<group>"; };
+		2F41828527A3B40500EB6183 /* Error.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Error.swift; sourceTree = "<group>"; };
+		2F41828727A3B43F00EB6183 /* Error404.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Error404.swift; sourceTree = "<group>"; };
+		2F41828927A3B48F00EB6183 /* ErrorFood.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorFood.swift; sourceTree = "<group>"; };
+		2F41828B27A3B4BB00EB6183 /* ErrorScreen404.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorScreen404.swift; sourceTree = "<group>"; };
+		2F41828D27A3B4F400EB6183 /* FIleNotFound2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FIleNotFound2.swift; sourceTree = "<group>"; };
+		2F41829127A3B52C00EB6183 /* FileNotFound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileNotFound.swift; sourceTree = "<group>"; };
+		2F41829327A3B55500EB6183 /* LocationAccess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationAccess.swift; sourceTree = "<group>"; };
+		2F41829527A3B5C400EB6183 /* LocationError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationError.swift; sourceTree = "<group>"; };
+		2F41829727A3B60400EB6183 /* MissingArticle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingArticle.swift; sourceTree = "<group>"; };
+		2F41829927A3B63000EB6183 /* NoSearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoSearchResult.swift; sourceTree = "<group>"; };
+		2F41829B27A3B67C00EB6183 /* PaymentFailed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentFailed.swift; sourceTree = "<group>"; };
+		2F41829D27A3B6A600EB6183 /* RouterOffline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RouterOffline.swift; sourceTree = "<group>"; };
+		2F41829F27A3B6CC00EB6183 /* SomethingWentWrong.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomethingWentWrong.swift; sourceTree = "<group>"; };
+		2F4182A127A3B6F700EB6183 /* SomethingWrong.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomethingWrong.swift; sourceTree = "<group>"; };
+		2F4182A327A3B72000EB6183 /* StorageNotEnough.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageNotEnough.swift; sourceTree = "<group>"; };
+		2F4182A527A3B74200EB6183 /* TimeError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeError.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +91,7 @@
 		2F41826D27A3A91B00EB6183 /* error-page */ = {
 			isa = PBXGroup;
 			children = (
+				2F41827C27A3A9FF00EB6183 /* Page */,
 				2F41826E27A3A91B00EB6183 /* error_pageApp.swift */,
 				2F41827027A3A91B00EB6183 /* ContentView.swift */,
 				2F41827227A3A91D00EB6183 /* Assets.xcassets */,
@@ -65,6 +106,33 @@
 				2F41827527A3A91D00EB6183 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2F41827C27A3A9FF00EB6183 /* Page */ = {
+			isa = PBXGroup;
+			children = (
+				2F41827D27A3B1A200EB6183 /* NoConnection.swift */,
+				2F41827F27A3B20500EB6183 /* BrokenLink.swift */,
+				2F41828127A3B34400EB6183 /* CameraAccess.swift */,
+				2F41828327A3B3A500EB6183 /* ConnectionFailed.swift */,
+				2F41828527A3B40500EB6183 /* Error.swift */,
+				2F41828727A3B43F00EB6183 /* Error404.swift */,
+				2F41828927A3B48F00EB6183 /* ErrorFood.swift */,
+				2F41828B27A3B4BB00EB6183 /* ErrorScreen404.swift */,
+				2F41828D27A3B4F400EB6183 /* FIleNotFound2.swift */,
+				2F41829127A3B52C00EB6183 /* FileNotFound.swift */,
+				2F41829327A3B55500EB6183 /* LocationAccess.swift */,
+				2F41829527A3B5C400EB6183 /* LocationError.swift */,
+				2F41829727A3B60400EB6183 /* MissingArticle.swift */,
+				2F41829927A3B63000EB6183 /* NoSearchResult.swift */,
+				2F41829B27A3B67C00EB6183 /* PaymentFailed.swift */,
+				2F41829D27A3B6A600EB6183 /* RouterOffline.swift */,
+				2F41829F27A3B6CC00EB6183 /* SomethingWentWrong.swift */,
+				2F4182A127A3B6F700EB6183 /* SomethingWrong.swift */,
+				2F4182A327A3B72000EB6183 /* StorageNotEnough.swift */,
+				2F4182A527A3B74200EB6183 /* TimeError.swift */,
+			);
+			path = Page;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +205,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F41829C27A3B67C00EB6183 /* PaymentFailed.swift in Sources */,
+				2F4182A027A3B6CC00EB6183 /* SomethingWentWrong.swift in Sources */,
+				2F41828A27A3B48F00EB6183 /* ErrorFood.swift in Sources */,
+				2F41829A27A3B63000EB6183 /* NoSearchResult.swift in Sources */,
+				2F41829827A3B60400EB6183 /* MissingArticle.swift in Sources */,
+				2F4182A627A3B74200EB6183 /* TimeError.swift in Sources */,
+				2F41828C27A3B4BB00EB6183 /* ErrorScreen404.swift in Sources */,
+				2F4182A427A3B72000EB6183 /* StorageNotEnough.swift in Sources */,
+				2F4182A227A3B6F700EB6183 /* SomethingWrong.swift in Sources */,
+				2F41829227A3B52C00EB6183 /* FileNotFound.swift in Sources */,
+				2F41827E27A3B1A200EB6183 /* NoConnection.swift in Sources */,
 				2F41827127A3A91B00EB6183 /* ContentView.swift in Sources */,
+				2F41828027A3B20500EB6183 /* BrokenLink.swift in Sources */,
+				2F41828827A3B43F00EB6183 /* Error404.swift in Sources */,
+				2F41829627A3B5C400EB6183 /* LocationError.swift in Sources */,
 				2F41826F27A3A91B00EB6183 /* error_pageApp.swift in Sources */,
+				2F41829E27A3B6A600EB6183 /* RouterOffline.swift in Sources */,
+				2F41828427A3B3A500EB6183 /* ConnectionFailed.swift in Sources */,
+				2F41828627A3B40500EB6183 /* Error.swift in Sources */,
+				2F41828227A3B34400EB6183 /* CameraAccess.swift in Sources */,
+				2F41829427A3B55500EB6183 /* LocationAccess.swift in Sources */,
+				2F41828E27A3B4F400EB6183 /* FIleNotFound2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
